@@ -51,7 +51,15 @@ to predict the *probability of churn* using an ANN trained model.
 ---
 
 ## 🗂️ Repository Structure
-├── app.py # Main Streamlit App ├── model.h5 # Trained ANN Model ├── label_encoder_gender.pkl ├── onehot_encoder_geo.pkl ├── scaler.pkl # Scaler for Feature Scaling ├── experiments.ipynb # EDA, Model Training Notebook ├── prediction.ipynb # Prediction Testing Notebook ├── requirements.txt └── runtime.txt # Python version for Streamlit Cloud
+├── app.py # Main Streamlit App 
+├── model.h5 # Trained ANN Model 
+├── label_encoder_gender.pkl 
+├── onehot_encoder_geo.pkl 
+├── scaler.pkl # Scaler for Feature Scaling 
+├── experiments.ipynb # EDA, Model Training Notebook 
+├── prediction.ipynb # Prediction Testing Notebook 
+├── requirements.txt 
+└── runtime.txt # Python version for Streamlit Cloud
 
 yaml
 Copy
