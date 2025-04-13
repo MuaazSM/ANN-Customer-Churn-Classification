@@ -1,5 +1,4 @@
-# ANN-Customer-Churn-Classification
-# 🧠 ANN Customer Churn Classification
+# ANN Customer Churn Classification
 
 An Artificial Neural Network (ANN) powered Machine Learning Web App to predict Customer Churn based on customer behavior and demographics.
 
