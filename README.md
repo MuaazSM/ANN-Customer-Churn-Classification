@@ -37,11 +37,6 @@ Customer churn prediction helps companies identify customers who are likely to l
 | Streamlit | Frontend Web App |
 | Pickle | Saving Encoders & Scaler |
 
-## 🔍 Demo Screenshot
-
-<p align="center">
-  <img src="https://via.placeholder.com/800x500" alt="Application Screenshot"/>
-</p>
 
 ## 🖥️ App Features
 
