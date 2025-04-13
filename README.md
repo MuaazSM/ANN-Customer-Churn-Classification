@@ -37,7 +37,6 @@ Customer churn prediction helps companies identify customers who are likely to l
 | Streamlit | Frontend Web App |
 | Pickle | Saving Encoders & Scaler |
 
-
 ## 🖥️ App Features
 
 - Clean User Interface with Streamlit
@@ -101,12 +100,8 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU General Public License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙌 Credits
 
 Made with ❤️ by Muaaz Shaikh
-
----
-
-⭐️ If you found this project helpful, please consider giving it a star!
