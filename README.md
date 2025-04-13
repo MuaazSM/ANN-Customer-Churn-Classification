@@ -61,9 +61,6 @@ to predict the *probability of churn* using an ANN trained model.
 ├── requirements.txt 
 └── runtime.txt # Python version for Streamlit Cloud
 
-yaml
-Copy
-Edit
 
 ---
 
